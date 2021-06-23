@@ -112,4 +112,4 @@ client.elevation = message => {
   return permlvl;
 };
 
-client.login(ayarlar.token);
+client.login(ODU3MjE5ODE4NjYzMDUxMjY0.YNMaKw.tXCGLbbZ3Vy_-vRi9hKdic_ZcK0);
